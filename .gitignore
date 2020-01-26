@@ -1,0 +1,11 @@
+/index.php
+/wp-content/languages/
+/wp-content/plugins/
+/license.txt
+/readme.html
+/xmlrpc.php
+/wp-admin/*
+/wp-includes/*
+/wp-content/index.php
+/wp-content/debug.log
+/wp-content/uploads/**

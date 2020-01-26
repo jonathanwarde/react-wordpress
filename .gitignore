@@ -11,3 +11,17 @@
 /wp-content/uploads/**
 /wp-content/themes/twenty**
 wp-config.php
+wp-content/themes/index.php
+wp-trackback.php
+wp-signup.php
+wp-settings.php
+wp-mail.php
+wp-login.php
+wp-load.php
+wp-links-opml.php
+wp-cron.php
+wp-config-sample.php
+wp-comments-post.php
+wp-blog-header.php
+wp-activate.php
+wordpress-5.3.2-en_GB.zip

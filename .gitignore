@@ -9,3 +9,5 @@
 /wp-content/index.php
 /wp-content/debug.log
 /wp-content/uploads/**
+/wp-content/themes/twenty**
+wp-config.php
